@@ -8,8 +8,8 @@ Created on Sun Jan 26 15:04:27 2020
 
 import re
 keywords = {
-            'greet': ['hello', 'hey','Good Morning','Good Afternoon'], 
-            'thankyou': ['thank', 'thx'], 
+            'greet': ['hello', 'hey','Good Morning','Good Afternoon','Hello'], 
+            'thankyou': ['thank', 'thx','Thanks'], 
             'goodbye': ['bye', 'farewell','Good night'],
             'Negate': [ "don't" , "not" ]
            }
