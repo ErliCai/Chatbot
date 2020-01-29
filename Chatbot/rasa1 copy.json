@@ -1,0 +1,94 @@
+{
+  "rasa_nlu_data": {
+    "regex_features": [
+      {
+        "name": "zipcode",
+        "pattern": "[0-9]{5}"
+      }
+      
+    ],
+    "entity_synonyms": [
+      {
+        "value": "chinese",
+        "synonyms": ["Chinese", "Chines", "chines"]
+      }
+    ],
+    "common_examples": [
+      {
+        "text": "I am searching for a song from Sia",
+        "intent": "find a song",
+        "entities": []
+      },
+      {
+        "text": "I want a song of Sia",
+        "intent": "find a song",
+        "entities": []
+      },
+      {
+        "text": "Give me a song from Sia",
+        "intent": "find a song",
+        "entities": []
+      },
+      {
+        "text": "Give a song from Sia",
+        "intent": "find a song",
+        "entities": []
+      },
+      {
+        "text": "I am looking for a song from Sia",
+        "intent": "find a song",
+        "entities": []
+      },
+      {
+        "text": "Find a similar Artist",
+        "intent": "find similar",
+        "entities": []
+      },
+      {
+        "text": "Tell me someone like him",
+        "intent": "find similar",
+        "entities": []
+      },
+      {
+        "text": "Is there any similar artist",
+        "intent": "find similar",
+        "entities": []
+      },
+      {
+        "text": "Tell me more about him",
+        "intent": "Artist Information",
+        "entities": []
+      },
+      {
+        "text": "Give me the info of Sia",
+        "intent": "Artist Information",
+        "entities": []
+      },
+      {
+        "text": "What do you know about Sia",
+        "intent": "Artist Information",
+        "entities": []
+      },
+      {
+        "text": "Who's Sia",
+        "intent": "Artist Information",
+        "entities": []
+      },
+      {
+        "text": "What can you do",
+        "intent": function",
+        "entities": []
+      },
+      {
+        "text": "What is your function",
+        "intent": "function",
+        "entities": []
+      },
+      {
+        "text": "What is your job",
+        "intent": "function",
+        "entities": []
+      }
+    ]
+  }
+}
