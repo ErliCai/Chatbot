@@ -6,6 +6,9 @@ Created on Tue Jan 28 14:12:34 2020
 @author: cai
 """
 
+#creat a database of artist using SQLite
+
+
 import sqlite3
 conn = sqlite3.connect('artist.db')
 c = conn.cursor()
