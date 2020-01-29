@@ -6,6 +6,7 @@ Created on Tue Jan 28 10:09:22 2020
 @author: cai
 """
 
+#connect to Genius API to get the name of song from an artist
 
 import json
 import requests
