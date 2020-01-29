@@ -5,6 +5,10 @@ Created on Sun Jan 26 10:03:27 2020
 
 @author: cai
 """
+
+#连接微信并阻塞进程
+
+
 from wxpy import *
 from respond import Respond
 
