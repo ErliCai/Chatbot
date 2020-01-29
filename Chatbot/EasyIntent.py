@@ -6,6 +6,8 @@ Created on Sun Jan 26 15:04:27 2020
 @author: cai
 """
 
+#using regular expression to get intent
+
 import re
 keywords = {
             'greet': ['hello', 'hey','Good Morning','Good Afternoon','Hello'], 
