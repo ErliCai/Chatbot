@@ -6,6 +6,11 @@ Created on Mon Jan 27 14:26:53 2020
 @author: cai
 """
 
+#Get artist information. 
+#It should be noted that this requires artist ID and won't accept artist name.
+# We can pass artist ID from Find_A_Song
+
+
 import json
 import requests
 from FindASong import Find_A_Song
