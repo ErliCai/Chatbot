@@ -5,6 +5,7 @@ Created on Tue Jan 21 19:28:20 2020
 
 @author: cai
 """
+#use rasa_nlu to get complex intent
 
 from rasa_nlu.training_data import load_data
 from rasa_nlu.config import RasaNLUModelConfig
