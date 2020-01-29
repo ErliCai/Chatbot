@@ -5,7 +5,7 @@ Created on Mon Jan 27 14:37:27 2020
 
 @author: cai
 """
-
+# Respond to easy intent. This requires only one parameter(intent)
 
 import random
 
