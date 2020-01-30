@@ -6,6 +6,9 @@ Created on Tue Jan 28 11:55:40 2020
 @author: cai
 """
 
+
+#using regular expression to get country and genre of an artist
+
 import re
 
 
