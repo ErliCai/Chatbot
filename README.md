@@ -3,7 +3,7 @@
  2 Get songs from an artist   
  3 Help you to find similar artist
 
-## demo
+# demo
 
 ![](demo/demo.gif)
 
