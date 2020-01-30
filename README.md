@@ -4,7 +4,7 @@
  3 Help you to find similar artist
 
 
-
+![](demo/demo.gif)
 
  This chatbot is built using rasa_nlu, SQLite, spacy and genius API from rapidAPI  
  rasa_nlu helps with training data and, together with regular expression, extract intent of a sentence  
