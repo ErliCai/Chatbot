@@ -5,6 +5,7 @@ Created on Tue Jan 28 16:44:42 2020
 
 @author: cai
 """
+#Sugget an artist base on local database
 
 import sqlite3
 from FindArtistInfo import Get_Artist_Info
