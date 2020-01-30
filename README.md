@@ -37,10 +37,11 @@ pip install -U wxpy
 ***For more installation information***<br>
 Go to https://wxpy.readthedocs.io/zh/latest/#<br>
 
+## known bugs
+## troubleshooting
+## credits and acknowledgements
+## a changelog
+* 2020.1.29 uploade file 
+* 2020.1.30 modify README.md
 
 
- This chatbot is built using rasa_nlu, SQLite, spacy and genius API from rapidAPI  
- rasa_nlu helps with training data and, together with regular expression, extract intent of a sentence  
- SQLite helps with creating a database and search for artist match for the parameters (County and Genre)  
- spacy helps with finding entities  
- genius API provide easy access to datas like artist's besk known songs, lyrics of each song, artist activities.
