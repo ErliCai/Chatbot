@@ -3,8 +3,11 @@
  2 Get songs from an artist   
  3 Help you to find similar artist
 
+##demo
 
 ![](demo/demo.gif)
+
+<br>
 
  This chatbot is built using rasa_nlu, SQLite, spacy and genius API from rapidAPI  
  rasa_nlu helps with training data and, together with regular expression, extract intent of a sentence  
