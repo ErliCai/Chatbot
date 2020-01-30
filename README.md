@@ -9,6 +9,14 @@
 
 <br>
 
+# configuration
+
+## spaCy
+'''
+conda install -c conda-forge spacy=2.0.11  
+python -m spacy download en_core_web_md
+'''
+
  This chatbot is built using rasa_nlu, SQLite, spacy and genius API from rapidAPI  
  rasa_nlu helps with training data and, together with regular expression, extract intent of a sentence  
  SQLite helps with creating a database and search for artist match for the parameters (County and Genre)  
